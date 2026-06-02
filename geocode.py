@@ -6,7 +6,7 @@ import os
 
 # ------------------ CONFIGURATION ------------------
 API_KEY = "YOUR_API"                
-INPUT_FILE = "postal_filtered.xlsx"              
+INPUT_FILE = "YOUR_INPUT_FILE.xlsx"              
 ADDRESS_COLUMN = "address"              
 OUTPUT_FILE = "geocoded_progress.xlsx"  
 REQUEST_DELAY = 0.3                     
